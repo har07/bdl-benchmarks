@@ -44,9 +44,9 @@ setup(
         "scikit-learn==0.21.3",
         "kaggle==1.5.6",
         "opencv-python==4.2.0.34",
-        "tensorflow-gpu==2.0.0-beta0",
-        "tensorflow-probability==0.7.0",
-        "tensorflow-datasets==1.1.0",
+        "tensorflow-gpu==2.7.0",
+        "tensorflow-probability==0.14.1",
+        "tensorflow-datasets==4.4.0",
     ],
     classifiers=[
         "Development Status :: 3 - Alpha",
